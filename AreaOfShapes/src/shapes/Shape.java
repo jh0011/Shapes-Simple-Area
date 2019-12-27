@@ -1,8 +1,6 @@
 package shapes;
 
 public interface Shape {
-	
-	
 	public double getLength(); 
 	
 	public double getBreadth();
@@ -18,6 +16,4 @@ public interface Shape {
 	public void qnsLength();
 	
 	public void qnsBreadth();
-	
-	
 }
